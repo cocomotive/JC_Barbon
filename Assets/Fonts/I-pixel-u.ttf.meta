@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7bfc0fc4ac26f7b43bcfe48f2614586e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: 3
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: I pixel u
+  fontNames:
+  - I pixel u
+  fallbackFontReferences: []
+  customCharacters: 1234567890x
+  fontRenderingMode: 2
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
